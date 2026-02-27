@@ -1,6 +1,8 @@
 {
   "mappings": [
-    "/content/hdfc/:/"
+    "/content/hdfc/:/",
+    "/content/hdfc/configuration:/.helix/config.json",
+    "/content/hdfc/metadata:/metadata.json"
   ],
   "includes": [
     "/content/hdfc/"
