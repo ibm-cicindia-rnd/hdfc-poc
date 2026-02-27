@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/hdfc/:/"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/hdfc/"
   ]
 }
